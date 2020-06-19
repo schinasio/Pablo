@@ -1,0 +1,39 @@
+h1 {
+
+	margin:auto; line-height:4; font-size:35px; color:360; text-align:center; font-family: Arial Rounded MT; font-style:italic
+
+
+	}
+
+{
+
+}
+h2 {
+
+
+	line-height:3; text-align:center; font-family: Arial Rounded MT; font-style:italic
+
+}
+
+
+
+p{ 
+
+font-style: italic; font-family: Arial Rounded MT;
+
+}
+
+hr {border-style: solid; border-color:lightgray;}
+
+body {
+ 	
+         text-shadow: 1px 1px lightgray; margin:auto; color:360; text-align:center; border:solid; border-color:lightgray; font-family: Arial Rounded MT;
+
+
+  background-image: linear-gradient(white, lightgray);
+
+  width: 50%;
+  padding: 10px;
+
+
+}
